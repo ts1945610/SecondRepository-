@@ -1,1 +1,2 @@
-Hello world welcome to my first git repository 
+Hello world welcome to my first git repository
+This is modified version of my Text.txt file 
